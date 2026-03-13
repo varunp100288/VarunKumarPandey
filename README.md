@@ -1,4 +1,4 @@
-# Hello Dosto 👋, I'm Varun Kumar Pandey
+# Varun Kumar Pandey
 
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Developer+Advocate;DevOps+%7C+Cloud+%7C+Platform+Engineering;Building+Production-Ready+Applications" />

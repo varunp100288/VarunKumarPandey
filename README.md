@@ -1,7 +1,7 @@
 # Hello Dosto 👋, I'm Arun Kumar Pandey
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Developer+Advocate;DevOps+%7C+Cloud+%7C+Platform+Engineering;Educator+%7C+Mentor+%7C+Trainer;Building+Production-Ready+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=Developer+Advocate;DevOps+%7C+Cloud+%7C+Platform+Engineering;Building+Production-Ready+Applications" />
 </p>
 
 ## 🚀 About Me

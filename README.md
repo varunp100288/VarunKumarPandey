@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 
-I'm a **Developer Advocate & Educator @TrainWithShubham**, specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 **India**, with **8+ years of professional experience** in both onsite and remote environments. I'm passionate about building **production-ready applications** and **scalable cloud infrastructure**.
+I'm a **DevOps Engineer**, specializing in **Development, DevOps, and Platform Engineering** from 🇮🇳 **India**, with **8+ years of professional experience** in both onsite and remote environments. I'm passionate about building **production-ready applications** and **scalable cloud infrastructure**.
 
 - 🔭 Currently working on **cloud-native solutions, Artificial Intelligence solutions, and DevOps/Platform Engineering**
 - 🌱 Always learning about **emerging technologies and best practices**
@@ -20,12 +20,12 @@ I'm a **Developer Advocate & Educator @TrainWithShubham**, specializing in **Dev
 
 ### Languages & Frameworks
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,django,javascript,html,css" />
+  <img src="https://skillicons.dev/icons?i=php,drupal,javascript,html,css" />
 </p>
 
 ### Cloud & DevOps
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,jenkins,gitlab,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,gitlab" />
 </p>
 
 ### Databases & Monitoring
